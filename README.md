@@ -15,6 +15,11 @@ In this project you will build such a pipeline.
   * [The configuration](#the-configuration)
   * [Running the entire pipeline or just a selection of steps](#Running-the-entire-pipeline-or-just-a-selection-of-steps)
   * [Pre-existing components](#pre-existing-components)
+## Project Links
+
+GitHub repository: https://github.com/kgri477/Project-Build-an-ML-Pipeline-Starter
+
+Weights & Biases project: https://wandb.ai/kgri477-western-governors-university/nyc_airbnb
 
 ## Preliminary steps
 
